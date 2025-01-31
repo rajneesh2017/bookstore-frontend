@@ -16,7 +16,9 @@ This is the React.js frontend for the Bookstore application. It provides a user-
 - API Integration: Fetch data from .NET Core Backend\
 - UI Design: Responsive and user-friendly\
 
-
+🔗 Backend API\
+This frontend connects with the Bookstore Backend built with .NET Core Web API. Make sure to start the backend before using the frontend.
+🔗 [Bookstore Backend Repository](https://github.com/rajneesh2017/bookstore-api)
 
 
 # Getting Started with Create React App
