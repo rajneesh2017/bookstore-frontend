@@ -1,3 +1,24 @@
+🌟 Overview\
+This is the React.js frontend for the Bookstore application. It provides a user-friendly interface to search, filter, add, edit, and delete books. The UI is built using React hooks, styled-components, and modern state management. The frontend is designed to integrate with the .NET Core backend and will be deployed on a suitable platform for showcasing in-demand skills.
+
+🚀 Features\
+🔍 Search & Filter books by title, author, and price\
+➕ Add new books with form validation\
+✏️ Edit existing books inline\
+❌ Delete books with confirmation\
+📄 Pagination for improved UX\
+
+🛠 Tech Stack Frontend:
+- React.js (Functional Components & Hooks)\
+- Styling: Styled-Components\
+- Routing: React Router\
+- State Management: useState, useEffect\
+- API Integration: Fetch data from .NET Core Backend\
+- UI Design: Responsive and user-friendly\
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
